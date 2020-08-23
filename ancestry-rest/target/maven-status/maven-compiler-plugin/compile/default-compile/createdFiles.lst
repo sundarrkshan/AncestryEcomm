@@ -1,0 +1,10 @@
+com\altmk\ancestryrest\model\dto\ProductRequest.class
+com\altmk\ancestryrest\services\ProductService.class
+com\altmk\ancestryrest\AncestryRestApplication.class
+com\altmk\ancestryrest\controller\ProductController.class
+com\altmk\ancestryrest\SpringBootApplication.class
+com\altmk\ancestryrest\model\Product.class
+com\altmk\ancestryrest\dao\ProductServiceImpl.class
+com\altmk\ancestryrest\model\dto\ProductResponse.class
+com\altmk\ancestryrest\ServletInitializer.class
+com\altmk\ancestryrest\model\dto\Status.class
